@@ -8,6 +8,8 @@
  *
  */
 
+/* Normalize.css shoud come first */
+@import './normalize';
 
 /* Basscss Modules */
 @import 'basscss-base-reset';
@@ -70,6 +72,10 @@
 
 /* Default custom properties */
 @import 'basscss-defaults';
+
+/* Andreipopovici.net custom style */
+@import './custom';
+@import './socialicious';
 
 
 /* Custom media queries */

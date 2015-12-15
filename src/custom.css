@@ -1,0 +1,75 @@
+html, body {
+	height: 100%;
+	font-family: 'Crimson Text', serif;
+}
+
+.container {
+	background: #fefefe;
+}
+
+.photo {
+    box-shadow: 0 2px 4px #ddd
+}
+
+.name {
+	font-family: 'Crimson Text', serif;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.position {
+	font-weight: normal;
+	color: #444;
+}
+
+.adyus {
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+	font-weight: bold;
+	color: #111;
+}
+
+.adyus:hover {
+	text-decoration: none;
+}
+
+.position:before {
+	content: '☞';
+	margin-right: 15px;
+	font-size: 
+}
+
+.position:after {
+	content: '☜';
+	margin-left: 15px;
+}
+
+.container {
+	height: 100%;
+	justify-content: center;
+}
+
+.logo {
+	max-height: 24px;
+	vertical-align: bottom;
+}
+
+i {
+	padding: 10px;
+	padding-bottom: 5px;
+	font-size: 1.5em;
+}
+
+.description {
+	font-style: italic;
+}
+
+.description .separator {
+	font-size: 0.4em;
+	color: #aaa;
+	vertical-align: middle;
+    padding: 0 5px;
+}
+
+.professional {
+	font-size: 0.8em;
+}
