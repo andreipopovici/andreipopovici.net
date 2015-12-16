@@ -8,7 +8,9 @@ html, body {
 }
 
 .photo {
-    box-shadow: 0 2px 4px #ddd
+    box-shadow: 0 2px 4px #ddd;
+	width: 150px;
+	height: 150px;
 }
 
 .name {
@@ -35,7 +37,6 @@ html, body {
 .position:before {
 	content: '☞';
 	margin-right: 15px;
-	font-size: 
 }
 
 .position:after {
