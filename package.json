@@ -1,9 +1,9 @@
 {
-  "name": "bassplate",
-  "version": "3.0.0",
-  "description": "Boilerplate for Basscss with cssnext",
-  "author": "Brent Jackson",
-  "license": "MIT",
+  "name": "andreipopovici.net",
+  "version": "0.0.1",
+  "description": "Personal website using Basscss",
+  "author": "Andrei Popovici",
+  "license": "Copyright 2015 Andrei Popovici",
   "dependencies": {
     "basscss-background-images": "latest",
     "basscss-base-buttons": "latest",
@@ -63,7 +63,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/basscss/bassplate.git"
+    "url": "https://github.com/andreipopovici/andreipopovici.net.git"
   },
   "keywords": [
     "CSS",
@@ -75,6 +75,6 @@
   "bugs": {
     "url": "https://github.com/basscss/bassplate/issues"
   },
-  "homepage": "https://github.com/basscss/bassplate",
+  "homepage": "http://andreipopovici.net",
   "main": "index.js"
 }
